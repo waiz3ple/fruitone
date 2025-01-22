@@ -26,7 +26,7 @@
 9. **Kumquat** - A bright orange pop for a lively touch. 🍊  
 10. **Starfruit** - Vibrant yellow-green for unique highlights. 🌟  
 
----
+
 
 ## **For Light Mode (Subtle and Refreshing Colors)**  
 1. **Peach** - Soft, warm pastel orange tones. 🍑  
@@ -39,7 +39,7 @@
 8. **Apricot** - Warm pastel orange-yellow. 🍊  
 9. **Grapes (Green)** - Subtle green with a translucent effect. 🍇  
 10. **Lemon** - Bright, cheerful light yellow for highlights. 🍋  
----
+
 
 ## 🚀 Installation
 1. Open **Visual Studio Code**.
@@ -49,7 +49,7 @@
 5. Navigate to the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`) and select `Preferences: Color Theme`.
 6. Choose **FruitOne** from the list.
 
----
+
 
 ## 🥭 Contribution
 We’d love your help to make **FruitOne** even better!
