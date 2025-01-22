@@ -3,7 +3,6 @@
 **FruitOne** is a refreshing Visual Studio Code theme inspired by the vibrant beauty of fruits and flowers. This theme combines nature's charm with developer-friendly design, offering a workspace that’s both visually pleasing and highly functional.
 
 ---
-
 ## 🌟 Features
 - **Nature-Inspired Colors:** A harmonious palette that brings the serenity of blossoms and the energy of ripe fruits to your coding environment.
 - **Readable Contrast:** Carefully crafted contrasts for easy code readability and reduced eye strain.
@@ -13,7 +12,7 @@
 
 ---
 
-# 🎨 Colorful Fruits for Dark and Light Modes
+## 🎨 Colorful Fruits for Dark and Light Modes
 ---
 ## **For Dark Mode (Vibrant Colors)**  
 1. **Blueberry** - Deep blue tones that contrast well with dark themes. 🫐  
