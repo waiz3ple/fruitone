@@ -13,13 +13,33 @@
 
 ---
 
-## 🖼️ Preview
-### Dark Mode
-![Dark Mode Preview](#)
+# 🎨 Colorful Fruits for Dark and Light Modes
+---
+## **For Dark Mode (Vibrant Colors)**  
+1. **Blueberry** - Deep blue tones that contrast well with dark themes. 🫐  
+2. **Blackberry** - Rich purple-black for a bold yet sophisticated feel. 🍇  
+3. **Dragon Fruit** - Vivid pinks with neon green highlights. 🐉🍈  
+4. **Pomegranate** - Deep red, vibrant and eye-catching. ❤️‍🔥  
+5. **Cherry** - Bright or dark red for dynamic accents. 🍒  
+6. **Passion Fruit** - Bold yellow with purple accents for vibrant highlights. 🍈  
+7. **Fig** - Subtle yet rich purple and brown tones. 🌰  
+8. **Plum** - Deep, luxurious purples perfect for contrast. 🍇  
+9. **Kumquat** - A bright orange pop for a lively touch. 🍊  
+10. **Starfruit** - Vibrant yellow-green for unique highlights. 🌟  
 
-### Light Mode
-![Light Mode Preview](#)
+---
 
+## **For Light Mode (Subtle and Refreshing Colors)**  
+1. **Peach** - Soft, warm pastel orange tones. 🍑  
+2. **Lychee** - Gentle pinks with creamy whites. 🍒  
+3. **Pear** - Light green and yellow for a fresh, natural feel. 🍐  
+4. **Apple** - Crisp, light reds or greens. 🍏  
+5. **Banana** - A soft, mellow yellow. 🍌  
+6. **Coconut** - Clean, white tones with a subtle brown shell. 🥥  
+7. **Honeydew Melon** - Refreshing pale green. 🍈  
+8. **Apricot** - Warm pastel orange-yellow. 🍊  
+9. **Grapes (Green)** - Subtle green with a translucent effect. 🍇  
+10. **Lemon** - Bright, cheerful light yellow for highlights. 🍋  
 ---
 
 ## 🚀 Installation
@@ -32,7 +52,7 @@
 
 ---
 
-## 🌈 Contribution
+## 🥭 Contribution
 We’d love your help to make **FruitOne** even better!
 - **Report Bugs:** Open an issue to let us know about any problems.
 - **Suggest Features:** Share your ideas for new features or improvements.
