@@ -41,10 +41,10 @@
 ## 🚀 Installation
 1. Open **Visual Studio Code**.
 2. Go to the Extensions view by pressing `Ctrl+Shift+X` (Windows/Linux) or `Cmd+Shift+X` (Mac).
-3. Search for **FruitOne Theme**.
+3. Search for **[FruitOne Theme](https://marketplace.visualstudio.com/items?itemName=wasiu.fruitone-themes)**.
 4. Click **Install**.
 5. Navigate to the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`) and select `Preferences: Color Theme`.
-6. Choose **FruitOne** from the list.
+6. Choose **Eggplant** or any fruit of your favourite from the list.
 
 
 

@@ -1,11 +1,15 @@
 {
-    "name": "fruitone",
-    "version": "0.0.1",
+    "name": "fruitone-themes",
+    "version": "1.0.0",
     "description": "Bright and beautiful theme color inspired by Nature.",
     "license": "ISC",
     "author": "Wasiu Ramoni",
     "type": "commonjs",
-    "main": "index.js",
+    "publisher": "wasiu",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/waiz3ple/fruitone"
+    },
     "scripts": {
         "test": ""
     },
@@ -15,6 +19,31 @@
     "displayName": "Fruitone Themes",
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "vscode",
+        "theme",
+        "color theme",
+        "dark theme",
+        "light theme",
+        "fruit",
+        "plant",
+        "plant theme",
+        "fruit theme",
+        "nature",
+        "vibrant",
+        "colorful",
+        "minimal",
+        "accessible",
+        "developer",
+        "fresh",
+        "modern",
+        "fruitone",
+        "fruit one",
+        "flowers",
+        "coding theme",
+        "programming",
+        "readable"
     ],
     "contributes": {
         "themes": [
