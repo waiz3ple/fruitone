@@ -19,7 +19,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "FruitOne Eggplant",
+                "label": "FruitOne Eggplant 🍆",
                 "uiTheme": "vs-dark",
                 "path": "/themes/fruitone-eggplant.json"
             },

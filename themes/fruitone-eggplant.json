@@ -1,11 +1,36 @@
 {
     "name": "fruitone",
     "colors": {
-        "editor.background": "#263238",
+        "activityBar.activeBorder": "#ff79c6",
+        "activityBar.background": "#290029",
+        "activityBar.foreground": "#ffffff",
+        "activityBarBadge.background": "#007acc",
+        "editor.background": "#301830",
         "editor.foreground": "#eeffff",
         "editor.parameterHints.enabled": true,
-        "activityBarBadge.background": "#007acc",
-        "sideBarTitle.foreground": "#bbbbbb"
+        "editorGroupHeader.tabsBackground": "#1a001a",
+        "editorWidget.background": "#786078",
+        "editorWidget.border": "#604860",
+        "editorWidget.foreground": "#F0F0FF",
+        "list.activeSelectionBackground": "#4a004a",
+        "list.hoverBackground": "#4a004a",
+        "list.inactiveSelectionBackground": "#4a004a",
+        "menu.background": "#180018",
+        "panel.background": "#180018",
+        "panel.border": "#604860",
+        "sideBar.background": "#180018",
+        "sideBar.border": "#604860",
+        "sideBar.foreground": "#A890A8",
+        "sideBarTitle.foreground": "#bbbbbb",
+        "tab.activeBackground": "#301830",
+        "tab.activeForeground": "#ffffff",
+        "tab.hoverBackground": "#620062",
+        "tab.inactiveBackground": "#290029",
+        "tab.inactiveForeground": "#b3b3b3",
+        "tab.unfocusedActiveBackground": "#3a003a",
+        "tab.unfocusedInactiveBackground": "#240024",
+        "titleBar.activeBackground": "#180018",
+        "titleBar.inactiveBackground": "#180018"
     },
     "tokenColors": [
         {
@@ -16,7 +41,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#546E7A"
+                "foreground": "#786078"
             }
         },
         {
@@ -26,7 +51,7 @@
                 "string constant.other.placeholder"
             ],
             "settings": {
-                "foreground": "#EEFFFF"
+                "foreground": "#FFF0FF"
             }
         },
         {
@@ -56,7 +81,7 @@
                 "storage.modifier"
             ],
             "settings": {
-                "foreground": "#C792EA"
+                "foreground": "#FFF0F0"
             }
         },
         {
