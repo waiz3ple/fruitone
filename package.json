@@ -56,6 +56,56 @@
                 "label": "FruitOne Watermelon 🍉",
                 "uiTheme": "vs-dark",
                 "path": "./themes/fruitone-watermelon.json"
+            },
+            {
+                "label": "FruitOne Blackberry 🍇",
+                "uiTheme": "vs-dark",
+                "path": "./themes/fruitone-blackberry.json"
+            },
+            {
+                "label": "FruitOne Blueberry 🫐",
+                "uiTheme": "vs-dark",
+                "path": "./themes/fruitone-blueberry.json"
+            },
+            {
+                "label": "FruitOne Mango 🥭",
+                "uiTheme": "vs-dark",
+                "path": "./themes/fruitone-mango.json"
+            },
+            {
+                "label": "FruitOne Orange 🍊",
+                "uiTheme": "vs-dark",
+                "path": "./themes/fruitone-orange.json"
+            },
+            {
+                "label": "FruitOne black-date 🌱",
+                "uiTheme": "vs-dark",
+                "path": "./themes/fruitone-date.json"
+            },
+            {
+                "label": "FruitOne Strawberry 🍓",
+                "uiTheme": "vs-dark",
+                "path": "./themes/fruitone-strawberry.json"
+            },
+            {
+                "label": "FruitOne Lemon 🍋",
+                "uiTheme": "vs-dark",
+                "path": "./themes/fruitone-lemon.json"
+            },
+            {
+                "label": "FruitOne Kiwi 🥝",
+                "uiTheme": "vs-dark",
+                "path": "./themes/fruitone-kiwi.json"
+            },
+            {
+                "label": "FruitOne Cherry 🍒",
+                "uiTheme": "vs-dark",
+                "path": "./themes/fruitone-cherry.json"
+            },
+            {
+                "label": "FruitOne Black Grapes 🍇",
+                "uiTheme": "vs-dark",
+                "path": "./themes/fruitone-grape.json"
             }
         ]
     }
