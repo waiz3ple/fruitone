@@ -13,17 +13,17 @@
 
 ## 🎨 Colorful Fruits for Dark and Light Modes
 
-## **For Dark Mode (Vibrant Colors)**  
+## **For Dark Mode (Vibrant Colors)**   
 1. **Blueberry** - Deep blue tones that contrast well with dark themes. 🫐  
 2. **Blackberry** - Rich purple-black for a bold yet sophisticated feel. 🍇  
-3. **Eggplant** - Vivid pinks with neon green highlights. 🍆  
+3. **Eggplant** - Vivid pinks with neon green highlights. 🍆                        ✅  Done
 4. **Pomegranate** - Deep red, vibrant and eye-catching. ❤️‍🔥  
 5. **Cherry** - Bright or dark red for dynamic accents. 🍒  
 6. **Passion Fruit** - Bold yellow with purple accents for vibrant highlights. 🍈  
 7. **Fig** - Subtle yet rich purple and brown tones. 🌰  
 8. **Plum** - Deep, luxurious purples perfect for contrast. 🍇  
 9. **Kumquat** - A bright orange pop for a lively touch. 🍊  
-10. **Starfruit** - Vibrant yellow-green for unique highlights. 🌟  
+10. **Watermelon** - Vibrant yellow-green for unique highlights. 🍉                 ✅ Done
 
 ## **For Light Mode (Subtle and Refreshing Colors)**  
 1. **Peach** - Soft, warm pastel orange tones. 🍑  
