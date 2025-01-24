@@ -16,7 +16,7 @@
 ## **For Dark Mode (Vibrant Colors)**  
 1. **Blueberry** - Deep blue tones that contrast well with dark themes. 🫐  
 2. **Blackberry** - Rich purple-black for a bold yet sophisticated feel. 🍇  
-3. **Dragon Fruit** - Vivid pinks with neon green highlights. 🐉🍈  
+3. **Eggplant** - Vivid pinks with neon green highlights. 🍆  
 4. **Pomegranate** - Deep red, vibrant and eye-catching. ❤️‍🔥  
 5. **Cherry** - Bright or dark red for dynamic accents. 🍒  
 6. **Passion Fruit** - Bold yellow with purple accents for vibrant highlights. 🍈  

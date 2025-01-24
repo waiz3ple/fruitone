@@ -1,6 +1,6 @@
 {
     "name": "fruitone-themes",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Bright and beautiful theme color inspired by Nature.",
     "license": "ISC",
     "author": "Wasiu Ramoni",
@@ -49,28 +49,13 @@
         "themes": [
             {
                 "label": "FruitOne Eggplant 🍆",
-                "uiTheme": "vs-dark",
+                "uiTheme": "vs",
                 "path": "/themes/fruitone-eggplant.json"
             },
             {
-                "label": "FruitOne Banana",
-                "uiTheme": "vs",
-                "path": "themes/fruitone-banana.json"
-            },
-            {
-                "label": "FruitOne Orange",
-                "uiTheme": "vs-dark",
-                "path": "./themes/fruitone-orange.json"
-            },
-            {
-                "label": "FruitOne Watermelon",
+                "label": "FruitOne Watermelon 🍉",
                 "uiTheme": "vs-dark",
                 "path": "./themes/fruitone-watermelon.json"
-            },
-            {
-                "label": "FruitOne Blueberry",
-                "uiTheme": "vs-dark",
-                "path": "./themes/fruitone-blueberry.json"
             }
         ]
     }
