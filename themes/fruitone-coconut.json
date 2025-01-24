@@ -1,0 +1,191 @@
+{
+    "name": "fruitone",
+    "colors": {
+        "activityBar.activeBorder": "#D4B89E",
+        "activityBar.background": "#2B1E14",
+        "activityBar.foreground": "#F4EFEA",
+        "activityBarBadge.background": "#8B5C3E",
+        "activityBarBadge.foreground": "#FFFFFF",
+        "badge.background": "#8B5C3E",
+        "badge.foreground": "#FFFFFF",
+        "breadcrumb.background": "#2B1E14",
+        "breadcrumb.foreground": "#D4B89E",
+        "breadcrumb.activeSelectionForeground": "#F4EFEA",
+        "breadcrumb.focusForeground": "#FFFFFF",
+        "editor.background": "#20160D",
+        "editor.foreground": "#F9F5EF",
+        "editor.lineHighlightBackground": "#3B291C",
+        "editor.selectionBackground": "#D4B89E60",
+        "editor.selectionHighlightBackground": "#8B5C3E50",
+        "editorCursor.foreground": "#D4B89E",
+        "editorWhitespace.foreground": "#4D382B",
+        "editorIndentGuide.background": "#4D382B",
+        "editorIndentGuide.activeBackground": "#D4B89E",
+        "editorLineNumber.foreground": "#9A8068",
+        "editorLineNumber.activeForeground": "#F4EFEA",
+        "editorGroupHeader.tabsBackground": "#261B12",
+        "editorGroup.border": "#3E2B1E",
+        "editorWidget.background": "#3B291C",
+        "editorWidget.foreground": "#F4EFEA",
+        "editorWidget.border": "#8B5C3E",
+        "list.activeSelectionBackground": "#8B5C3E",
+        "list.activeSelectionForeground": "#FFFFFF",
+        "list.hoverBackground": "#B38764",
+        "list.hoverForeground": "#FFFFFF",
+        "list.inactiveSelectionBackground": "#4D382B",
+        "list.inactiveSelectionForeground": "#D4B89E",
+        "menu.background": "#2B1E14",
+        "menu.foreground": "#F4EFEA",
+        "menu.selectionBackground": "#8B5C3E",
+        "menu.selectionForeground": "#FFFFFF",
+        "menu.separatorBackground": "#3E2B1E",
+        "panel.background": "#2B1E14",
+        "panel.border": "#3E2B1E",
+        "sideBar.background": "#261B12",
+        "sideBar.border": "#3E2B1E",
+        "sideBar.foreground": "#D4B89E",
+        "sideBarSectionHeader.background": "#3B291C",
+        "sideBarSectionHeader.foreground": "#F4EFEA",
+        "sideBarTitle.foreground": "#F4EFEA",
+        "statusBar.background": "#2B1E14",
+        "statusBar.foreground": "#F4EFEA",
+        "statusBar.debuggingBackground": "#8B5C3E",
+        "statusBar.debuggingForeground": "#FFFFFF",
+        "statusBar.noFolderBackground": "#3B291C",
+        "statusBar.noFolderForeground": "#D4B89E",
+        "tab.activeBackground": "#3B291C",
+        "tab.activeForeground": "#F4EFEA",
+        "tab.hoverBackground": "#8B5C3E",
+        "tab.hoverForeground": "#FFFFFF",
+        "tab.inactiveBackground": "#20160D",
+        "tab.inactiveForeground": "#9A8068",
+        "tab.unfocusedActiveBackground": "#3B291C",
+        "tab.unfocusedActiveForeground": "#D4B89E",
+        "tab.unfocusedInactiveBackground": "#20160D",
+        "tab.unfocusedInactiveForeground": "#9A8068",
+        "titleBar.activeBackground": "#261B12",
+        "titleBar.activeForeground": "#F4EFEA",
+        "titleBar.inactiveBackground": "#261B12",
+        "titleBar.inactiveForeground": "#9A8068"
+    },
+    "tokenColors": [
+        {
+            "name": "Comments",
+            "scope": [
+                "comment",
+                "punctuation.definition.comment"
+            ],
+            "settings": {
+                "fontStyle": "italic",
+                "foreground": "#9A8068"
+            }
+        },
+        {
+            "name": "Variables",
+            "scope": [
+                "variable",
+                "string constant.other.placeholder"
+            ],
+            "settings": {
+                "foreground": "#F4EFEA"
+            }
+        },
+        {
+            "name": "Strings",
+            "scope": [
+                "string",
+                "constant.other.symbol"
+            ],
+            "settings": {
+                "foreground": "#D4B89E"
+            }
+        },
+        {
+            "name": "Numbers and Constants",
+            "scope": [
+                "constant.numeric",
+                "constant.language",
+                "support.constant"
+            ],
+            "settings": {
+                "foreground": "#B38764"
+            }
+        },
+        {
+            "name": "Keywords",
+            "scope": [
+                "keyword",
+                "storage.type"
+            ],
+            "settings": {
+                "foreground": "#F4EFEA"
+            }
+        },
+        {
+            "name": "Functions",
+            "scope": [
+                "entity.name.function",
+                "support.function"
+            ],
+            "settings": {
+                "foreground": "#FFD7B5"
+            }
+        },
+        {
+            "name": "Operators",
+            "scope": [
+                "keyword.control",
+                "punctuation"
+            ],
+            "settings": {
+                "foreground": "#D4B89E"
+            }
+        },
+        {
+            "name": "Tags",
+            "scope": [
+                "entity.name.tag",
+                "meta.tag"
+            ],
+            "settings": {
+                "foreground": "#B38764"
+            }
+        },
+        {
+            "name": "Class Names",
+            "scope": [
+                "entity.name.class"
+            ],
+            "settings": {
+                "foreground": "#FFD7B5"
+            }
+        },
+        {
+            "name": "Attributes",
+            "scope": [
+                "entity.other.attribute-name"
+            ],
+            "settings": {
+                "foreground": "#D4B89E"
+            }
+        },
+        {
+            "name": "JSON Keys",
+            "scope": [
+                "source.json support.type.property-name.json"
+            ],
+            "settings": {
+                "foreground": "#8B5C3E"
+            }
+        },
+        {
+            "name": "Regular Expressions",
+            "scope": [
+                "string.regexp"
+            ],
+            "settings": {
+                "foreground": "#FFD7B5"
+            }
+        }
+    ]
+}
