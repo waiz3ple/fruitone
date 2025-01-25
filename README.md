@@ -54,7 +54,6 @@
 **Grape**
 ![Grape screenshort](/themes/assets/grape.png)
 
-kiwi mango orange strowberry watermelon
 **Kiwi**
 ![Kiwi screenshort](/themes/assets/kiwi.png)
 
