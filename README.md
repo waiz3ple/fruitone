@@ -18,20 +18,58 @@
 
 ### **Dark Mode (Vibrant and Bold Colors)**
 
-1. **Eggplant 🍆** - A dramatic blend of vivid pinks and neon greens.
-2. **Watermelon 🍉** - A refreshing mix of vibrant green and warm yellows.
-3. **Blackberry 🍇** - Deep purple tones with a sophisticated, bold touch.
-4. **Blueberry 🫐** - Rich, dark blues perfect for focused work.
-5. **Mango 🥭** - Bright, tropical oranges with hints of golden hues.
-6. **Orange 🍊** - Energetic, zesty oranges balanced with warm browns.
-7. **Date 🌱** - Earthy tones inspired by the dark richness of dates.
-8. **Strawberry 🍓** - Juicy reds with hints of soft pink for dynamic accents.
-9. **Coconut 🥥** - Subtle browns paired with clean whites for a soothing feel.
-10. **Kiwi 🥝** - Lush greens with vibrant yellow highlights for a tropical vibe.
-11. **Cherry 🍒** - Bright and bold reds for dynamic, energetic coding sessions.
-12. **Black Grapes 🍇** - Elegant and luxurious purples with subtle contrast.
-
+1. **Blackberry 🍇** - Deep purple tones with a sophisticated, bold touch.  
+2. **Blueberry 🫐** - Rich, dark blues perfect for focused work.  
+3. **Cherry 🍒** - Bright and bold reds for dynamic, energetic coding sessions.  
+4. **Coconut 🥥** - Subtle browns paired with clean whites for a soothing feel.  
+5. **Date 🌱** - Earthy tones inspired by the dark richness of dates.  
+6. **Eggplant 🍆** - A dramatic blend of vivid pinks and neon greens.  
+7. **Grapes 🍇** - Elegant and luxurious purples with subtle contrast.  
+8. **Kiwi 🥝** - Lush greens with vibrant yellow highlights for a tropical vibe.  
+9. **Mango 🥭** - Bright, tropical oranges with hints of golden hues.  
+10. **Orange 🍊** - Energetic, zesty oranges balanced with warm browns.  
+11. **Strawberry 🍓** - Juicy reds with hints of soft pink for dynamic accents.  
+12. **Watermelon 🍉** - A refreshing mix of vibrant green and warm yellows.  
 ---
+
+## Screenshorts
+**Blackberry**
+![Blackberry screenshort](/themes/assets/blackberry.png)
+
+**Blueberry**
+![Blueberry screenshort](/themes/assets/blueberry.png)
+
+**Cherry**
+![Cherry screenshort](/themes/assets/cherry.png)
+
+**Coconut**
+![Coconut screenshort](/themes/assets/coconut.png)
+
+**Date**
+![Date screenshort](/themes/assets/date.png)
+
+**Eggplant**
+![Eggplant screenshort](/themes/assets/eggplant.png)
+
+**Grape**
+![Grape screenshort](/themes/assets/grape.png)
+
+kiwi mango orange strowberry watermelon
+**Kiwi**
+![Kiwi screenshort](/themes/assets/kiwi.png)
+
+**Mango**
+![Kiwi screenshort](/themes/assets/mango.png)
+
+**Orange**
+![Kiwi screenshort](/themes/assets/orange.png)
+
+**Strawberry**
+![Kiwi screenshort](/themes/assets/strawberry.png)
+
+**Watermelon**
+![Kiwi screenshort](/themes/assets/watermelon.png)
+
 
 ## 🚀 Installation
 
@@ -59,7 +97,6 @@ We’d love your help to make **FruitOne** even better!
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
 ## 🌸 Credits
 
 - Inspired by the natural beauty of fruits and flowers.

@@ -103,7 +103,7 @@
                 "path": "./themes/fruitone-cherry.json"
             },
             {
-                "label": "FruitOne Black Grapes 🍇",
+                "label": "FruitOne Grapes 🍇",
                 "uiTheme": "vs-dark",
                 "path": "./themes/fruitone-grape.json"
             }
