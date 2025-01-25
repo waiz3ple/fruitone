@@ -90,18 +90,10 @@ We’d love your help to make **FruitOne** even better!
 - **Suggest Features:** Have ideas for a new fruit theme or improvements? Share them with us!
 - **Code Contributions:** Fork the repository, make your changes, and submit a pull request to join the FruitOne family.
 
----
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 ## 🌸 Credits
-
 - Inspired by the natural beauty of fruits and flowers.
 - Created with love for developers who seek beauty and productivity in their coding journey.
 
 ---
-
 **Enjoy coding with the vibrant and refreshing vibes of FruitOne! 🍇🍓🍊**
